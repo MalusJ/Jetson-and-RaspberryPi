@@ -31,7 +31,7 @@
 - **"Programming the Raspberry Pi: Getting Started with Python" by Simon Monk**: [Book Link](https://www.amazon.com/Programming-Raspberry-Pi-Getting-Started/dp/1259642395)
 - **"Learning Computer Architecture with the Raspberry Pi" by Eben Upton et al.**: [Book Link](https://www.amazon.com/Learning-Computer-Architecture-Raspberry-Pi/dp/1119183936)
 
-## Community Forums and Support
+## Community Forums
 
 - **Raspberry Pi Forums**: [Forum Link](https://forums.raspberrypi.com/)
 - **NVIDIA Developer Forums**: [Forum Link](https://forums.developer.nvidia.com/c/agx-autonomous-machines/jetson-embedded-systems/70)
